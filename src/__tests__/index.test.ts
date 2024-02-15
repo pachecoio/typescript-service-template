@@ -1,4 +1,4 @@
-import { sayHello } from "..";
+import { sayHello } from "@/index";
 
 describe('Test', () => {
     it('should say hello with a console log', () => {
